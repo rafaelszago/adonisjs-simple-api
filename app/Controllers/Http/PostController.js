@@ -40,12 +40,6 @@ class PostController {
   }
 
   /**
-   * Update post details.
-   * PUT or PATCH posts/:id
-  async update ({ params, request, response }) {
-  }
-
-  /**
    * Delete a post with id.
    * DELETE posts/:id
    */
